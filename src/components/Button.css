@@ -1,0 +1,22 @@
+.button {
+  display: flex;
+  height: 4em;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #f9f9f9;
+  color: #888;
+  outline: 2px solid gainsboro;
+  cursor: pointer;
+  border-radius: 1px;
+}
+.button:hover {
+  background-color: gray;
+  color: white;
+}
+.operator {
+  background-color: #4d90fe;
+  color: #fff;
+}
